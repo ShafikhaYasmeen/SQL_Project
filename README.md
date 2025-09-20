@@ -47,7 +47,7 @@ This dataset mimics real e-commerce inventory data, including duplicates, multip
 - **outOfStock:** Boolean flag indicating stock availability
 
 - **quantity:** Number of units per package (mixed with grams for loose produce)
-- 
+
 Here’s a step-by-step breakdown of what we do in this project:
 
 ### 1. Database & Table Creation
